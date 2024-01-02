@@ -11,7 +11,7 @@ int main()
         j=1;
         while(j<=n)
         {
-            ch='A'+i+j-2;
+            ch='A'+i+j-2; //this logic does not belong to me , though i did understand i did not get its creation
             cout<<ch;
             j++;
         }
